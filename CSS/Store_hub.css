@@ -89,10 +89,11 @@ padding-left: 300px;
 height: 80px;;
 border-left: 430px #2c81b4 solid;
 width: 1000px;
+outline: solid #2c81b4 20px;
 }
 .content div{
   position: relative;
-  top: 20px;
+  bottom: 20px;
   right: 445px;
   font-size: 30px;
 }
