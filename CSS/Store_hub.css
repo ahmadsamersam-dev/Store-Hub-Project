@@ -44,25 +44,25 @@ html ,body{
   right: 5px;
 }
 .history .text{
-  position: relative;
-bottom: 170px;
-left: 250px;
-font-size: 20px;
+ position: relative; 
+ bottom: 170px;
+ left: 250px;
+ font-size: 20px;
 }
 .service {
-  background: #2c81b4;
-color: white;
-padding: 5px 250px 5px 10px;
-margin: 30px;
-margin-left: 300px;
-height: 250px;
-width: 1000px;
+ background: #2c81b4;
+ color: white;
+ padding: 5px 250px 5px 10px;
+ margin: 30px;
+ margin-left: 300px;
+ height: 250px;
+ width: 1000px;
 }
 .service .title
 {
-font-size: 30px;
-position: relative;
-left: 500px;
+ font-size: 30px;
+ position: relative;
+ left: 500px;
 }
 .service .photo{
   height: 150px;
@@ -72,21 +72,18 @@ left: 500px;
   left: 990px;
 }
 .service .products{
-position: relative;
-bottom: 185px;
-font-size: 20px;
-}
-footer{
-  background: #2c81b4;
+ position: relative;
+ bottom: 185px;
+ font-size: 20px;
 }
 .content{
-  background: #2c81b4;
-color: white;
-padding: 5px 250px 5px 300px;
-margin-top: 70px;
-border-left: 430px #2c81b4 solid;
-width: 1000px;
-outline: solid #2c81b4 20px;
+ background: #2c81b4;
+ color: white;
+ padding: 5px 250px 5px 300px;
+ margin-top: 70px;
+ border-left: 430px #2c81b4 solid;
+ width: 1000px;
+ outline: solid #2c81b4 20px;
 }
 .content div{
   position: relative;
